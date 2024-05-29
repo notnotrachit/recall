@@ -48,3 +48,11 @@ This is a simple program that is kind of like the new Windows recall feature.
 - Experiment with different models and see which one works best
 - Improve the UI of the client
 - Add encryption and security
+
+
+Liked my efforts? Consider sponsoring me on GitHub or buying me a coffee.
+
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-GitHub-%23EA4AAA?logo=GitHub)](https://github.com/sponsors/notnotrachit)
+
+Also, please star the repo, it motivates me to work on it more.
+![GitHub Repo stars](https://img.shields.io/github/stars/notnotrachit/recall?style=social)
